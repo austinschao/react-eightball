@@ -1,0 +1,15 @@
+.EightBall-div {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.EightBall-p {
+    color: white;
+    padding-top: 50%;
+    text-align: center;
+    font-weight: bold;
+}
